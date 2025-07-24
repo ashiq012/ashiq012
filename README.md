@@ -12,31 +12,37 @@
 
 ## 🚀 About Me
 
-```javascript
-const ashiq = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "system design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux", "Zustand"],
-            css: ["Tailwind CSS", "Styled Components", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js", "Nest.js"],
-            python: ["Django", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "Redis"],
-            cloudServices: ["AWS", "GCP", "Firebase"]
-        },
-        devOps: ["Docker", "Kubernetes", "GitHub Actions", "Jenkins"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        misc: ["Socket.io", "GraphQL", "REST APIs", "Microservices"]
+```json
+{
+    "name": "Ashiq Ali",
+    "role": "Full Stack Developer",
+    "location": "India 🇮🇳",
+    "code": ["JavaScript", "TypeScript", "Python", "Java"],
+    "askMeAbout": ["web dev", "tech", "app dev", "system design"],
+    "technologies": {
+        "frontEnd": ["React", "Next.js", "Redux", "Tailwind CSS"],
+        "backEnd": ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
+        "cloud": ["AWS", "GCP", "Firebase"],
+        "devOps": ["Docker", "Kubernetes", "GitHub Actions"],
+        "tools": ["Git", "VS Code", "Postman", "Figma"]
     },
-    architecture: ["Serverless Architecture", "Progressive Web Apps", "Single Page Applications"],
-    currentFocus: "Building scalable applications with modern architecture patterns",
-    funFact: "I debug with console.log() and I'm not ashamed of it! 🚀"
-};
+    "currentFocus": "System Design & Cloud Architecture",
+    "funFact": "I turn coffee into code! ☕➡️💻"
+}
 ```
+
+<div align="center">
+
+### 🎯 What I'm up to
+
+🔭 **Currently Working On:** MERN Stack Projects & System Design  
+🌱 **Learning:** Advanced Backend Architecture & Cloud Services  
+🧠 **Exploring:** Microservices, Docker & Kubernetes  
+💬 **Ask me about:** React, Node.js, MongoDB, System Design  
+📫 **Reach me:** ashiqali9136@gmail.com  
+⚡ **Fun fact:** I love solving DSA problems and building intuitive UIs
+
+</div>
 
 <div align="center">
 
@@ -142,4 +148,30 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=link
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqali9136@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashiqali9136)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
