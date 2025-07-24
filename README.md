@@ -12,26 +12,28 @@
 
 ## 🚀 About Me
 
-```json
-{
-    "name": "Ashiq Ali",
-    "role": "Full Stack Developer",
-    "location": "India 🇮🇳",
-    "code": ["JavaScript", "TypeScript", "Python", "Java"],
-    "askMeAbout": ["web dev", "tech", "app dev", "system design"],
-    "technologies": {
-        "frontEnd": ["React", "Next.js", "Redux", "Tailwind CSS"],
-        "backEnd": ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-        "cloud": ["AWS", "GCP", "Firebase"],
-        "devOps": ["Docker", "Kubernetes", "GitHub Actions"],
-        "tools": ["Git", "VS Code", "Postman", "Figma"]
-    },
-    "currentFocus": "System Design & Cloud Architecture",
-    "funFact": "I turn coffee into code! ☕➡️💻"
-}
-```
-
 <div align="center">
+
+<table>
+<tr>
+<td>
+
+**👨‍💻 Role:** Full Stack Developer  
+**🌍 Location:** India  
+**💻 Languages:** JavaScript, TypeScript, Python, Java  
+**🎯 Focus:** System Design & Cloud Architecture  
+
+</td>
+<td>
+
+**🚀 Frontend:** React, Next.js, Redux, Tailwind CSS  
+**⚙️ Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
+**☁️ Cloud:** AWS, GCP, Firebase  
+**🛠️ DevOps:** Docker, Kubernetes, GitHub Actions  
+
+</td>
+</tr>
+</table>
 
 ### 🎯 What I'm up to
 
