@@ -87,40 +87,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiq012&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </div>
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🔐 [MERN Authentication App](https://github.com/ashiq012/auth-app)
-**Full-stack authentication system with secure login & registration**
-- 🛡️ Secure password hashing with **bcrypt**
-- 🎫 Session management using **JWT tokens**
-- 🔒 Private routing implementation
-- 📱 Responsive React frontend
-- 🚀 RESTful APIs with Express.js & MongoDB
-
-### 📊 [Crypto Tracker App](https://crypto-analyst-nine.vercel.app/)
-**Real-time cryptocurrency tracking with interactive charts**
-- 💰 Top 10 cryptocurrencies with **live price updates**
-- 📈 Interactive **Google Charts** for price visualization
-- 🔄 **Context API** for global state management
-- 📱 Fully responsive design
-- ☁️ Deployed on **Vercel**
-
-### 🌤️ [Weather Forecasting App](https://shiny-valkyrie-48c1ea.netlify.app/)
-**Live weather updates for any city worldwide**
-- 🌡️ Real-time temperature, humidity & wind speed
-- 🌍 **OpenWeather API** integration
-- 🎨 Dynamic weather condition icons
-- 📱 Mobile-friendly interface
-- ☁️ Deployed on **Netlify**
-
-</div>
-
----
-
 ## 🎓 Education & Training
 
 <div align="center">
@@ -128,11 +94,6 @@
 ### 🎓 Bachelor of Computer Applications
 **Institute of Innovation in Technology & Management**  
 📅 August 2022 - Present | 📍 New Delhi, India
-
-### 💻 8-Week Full Stack Web Development Training
-**MakeIntern**  
-📅 June 2024 - August 2024  
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Project Development
 
 ### 📚 Senior Secondary (12th)
 **CBSE Board**  
@@ -156,7 +117,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdashiqilahi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqali9136@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashiq012)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919136288906)
