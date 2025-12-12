@@ -20,8 +20,8 @@
 
 **👨‍💻 Role:** MERN Stack Developer  
 **🌍 Location:** New Delhi, India  
-**🎓 Education:** BCA Student at IITM  
-**💻 Languages:** JavaScript, HTML, CSS  
+**🎓 Education:** 10th , 12th , BCA   
+**💻 Languages:** JavaScript
 
 </td>
 <td>
